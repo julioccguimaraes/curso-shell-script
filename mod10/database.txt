@@ -1,0 +1,7 @@
+0:joao:joao@rita.com
+1:Lu:lu@rita.com
+2:Julio:julio@julio.com
+3:Nick:nick@nick.com
+4:Lily:lily@lily.com
+5:Rita:rita@rita.com
+6:Elisa:elisa@elisa.com
